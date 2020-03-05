@@ -1,3 +1,4 @@
-# Personal Website Template
+# Personal Web Site
 
-Feel free to download this template and change it to fit your information! 
+
+Personal web site to show who i am.
